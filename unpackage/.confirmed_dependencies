@@ -1,0 +1,11 @@
+{
+	"index.html": {
+		"resources": [
+			"/autoload.js",
+			"/resources/autoload.js",
+			"/resources/waifu-tips.js",
+			"/resources/live2d.min.js",
+			"/resources/waifu.css"
+		]
+	}
+}
